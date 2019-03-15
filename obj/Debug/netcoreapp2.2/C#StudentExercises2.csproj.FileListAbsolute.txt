@@ -1,0 +1,11 @@
+/Users/asiacarter/workspace/C#StudentExercises2/bin/Debug/netcoreapp2.2/C#StudentExercises2.deps.json
+/Users/asiacarter/workspace/C#StudentExercises2/bin/Debug/netcoreapp2.2/C#StudentExercises2.runtimeconfig.json
+/Users/asiacarter/workspace/C#StudentExercises2/bin/Debug/netcoreapp2.2/C#StudentExercises2.runtimeconfig.dev.json
+/Users/asiacarter/workspace/C#StudentExercises2/bin/Debug/netcoreapp2.2/C#StudentExercises2.dll
+/Users/asiacarter/workspace/C#StudentExercises2/bin/Debug/netcoreapp2.2/C#StudentExercises2.pdb
+/Users/asiacarter/workspace/C#StudentExercises2/obj/Debug/netcoreapp2.2/C#StudentExercises2.csprojAssemblyReference.cache
+/Users/asiacarter/workspace/C#StudentExercises2/obj/Debug/netcoreapp2.2/C#StudentExercises2.csproj.CoreCompileInputs.cache
+/Users/asiacarter/workspace/C#StudentExercises2/obj/Debug/netcoreapp2.2/C#StudentExercises2.AssemblyInfoInputs.cache
+/Users/asiacarter/workspace/C#StudentExercises2/obj/Debug/netcoreapp2.2/C#StudentExercises2.AssemblyInfo.cs
+/Users/asiacarter/workspace/C#StudentExercises2/obj/Debug/netcoreapp2.2/C#StudentExercises2.dll
+/Users/asiacarter/workspace/C#StudentExercises2/obj/Debug/netcoreapp2.2/C#StudentExercises2.pdb
